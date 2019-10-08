@@ -10,6 +10,6 @@ class Alariva
     
     static function hello()
     {
-        echo "Hello World";
+        echo "Hello World!\n";
     }
 }
