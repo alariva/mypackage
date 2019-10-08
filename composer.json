@@ -3,7 +3,7 @@
     "description": "A dummy composer package",
     "type": "library",
     "license": "MIT",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Ariel Vallese",
